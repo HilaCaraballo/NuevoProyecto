@@ -7,3 +7,4 @@ para ejecutar el sistema debes poner:
 
 ``` npm install react```
 
+Esta es una prueba, para ver lo del git pull
